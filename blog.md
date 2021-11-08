@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: Task
 permalink: /blog/
 title: Rohit Jain | Blog
 pagination:
