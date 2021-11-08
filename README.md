@@ -18,20 +18,6 @@ React로 만드는 자기소개서의 ProtoType이다.
   - Your site is using the `relative_permalinks` configuration option.
   - 해결법: `relative_permalinks` 삭제하면됨
 
-##### [React로 github.io로 연동하는법](https://www.hohyeonmoon.com/blog/react-js-github-pages-deploy/)
-- react 페이지를 github io에서 hosting
-- 문제점
-  - remote를 하고 push하는 단계에서 제대로 push가 제대로 동작하지 않음
-``` shell
-remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-fatal: Authentication failed for 'https://github.com/ssu2030/ssu2030.github.io.git/'
-```
-- 해결방법: [Github push token 해결](https://hyeo-noo.tistory.com/184)
-
-- github과 gitlab의 ssh-key 관리방법이 다름
-  - https://zetawiki.com/wiki/GitHub_%EB%A9%94%EC%8B%9C%EC%A7%80_Key_is_already_in_use
-  
 ----------
 
 - blog 만들기는 protoType을 위해 현재 jekyll을 사용하기로 결정
