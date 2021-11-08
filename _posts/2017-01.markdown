@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Android Music Player App
+title: "Android Music Player App"
 categories: '2017'
 ---
 

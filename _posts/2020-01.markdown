@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TMAX 입사
-date:   2021-11-08 18:13:50 +0900
+title: "TMAX 입사"
+date: 2021-11-08 18:13:50 +0900
 categories: '2020'
 ---
 
