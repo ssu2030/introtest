@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title: SW개발을 위한 알고리즘 활용 과정
-categories: 2019
+title: Android Music Player App
+categories: '2017'
 ---
 
 ### What are options, futures and stocks?

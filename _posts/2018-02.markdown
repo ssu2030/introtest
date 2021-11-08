@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title: Naver Cafe Data Mining Service 
-categories: 2018
+title: OpenCV를 통한 영상인식 기반 IoT
+categories: '2018'
 ---
 
 ### What are options, futures and stocks?
