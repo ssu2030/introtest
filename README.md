@@ -31,3 +31,9 @@ fatal: Authentication failed for 'https://github.com/ssu2030/ssu2030.github.io.g
 ```
 - 해결방법: [Github push token 해결법](https://hyeo-noo.tistory.com/184)
 - github은 gitlab과 다르게 ssh-key 관리 방법이 다르다. 따라서 현재 github.io에 만 ssh-key 
+
+--------------
+
+좋은 jekyll template
+- https://devlopr.netlify.app/shop/#/checkout
+- 
