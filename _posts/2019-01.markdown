@@ -1,8 +1,0 @@
----
-layout: post
-date:   2021-11-08 18:13:50 +0900
-title: "SW개발을 위한 알고리즘 활용 과정"
-categories: '2019'
----
-
-### What are options, futures and stocks?

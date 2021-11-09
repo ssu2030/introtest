@@ -1,8 +1,0 @@
----
-layout: post
-title: "Android Music Player App"
-date:   2021-11-08 18:13:50 +0900
-categories: '2017'
----
-
-### What are options, futures and stocks?
