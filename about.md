@@ -32,7 +32,20 @@ HTML, CSS, JavaScript, TypeScript, npm, C, C++, Linux, Bash, batch
 #### Now Learning 
 Android, JAVA
 
-----------
+-------
+## Personal Project
+
+#### Solving Algorithm
+
+#### My React Resume
+
+#### Shopping Helper
+
+#### SNAKE GAME (JS)
+
+#### Make Instagram (CloneCoding)
+
+-------
 ## Interests
 
 ##### 레고 창작
@@ -40,4 +53,5 @@ Android, JAVA
 ##### 옷, 스티커 디자인
 
 ##### 스케이트 보드
+
 
