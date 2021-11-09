@@ -11,7 +11,7 @@ pagetype: blog
 {% else %}
 <div class="blogPage-categoryList">
     <ul>
-    <li><a href="{{ "/categories/" | relative_url }}">Categories</a> : </li>
+    <li><a href="{{ "/categories/" | relative_url }}">YEAR</a> : </li>
     {% for category in site.categories %}
         {% capture category_name %}{{ category | first }}{% endcapture %}
         <li><a href="{{"/categories/#" | append: category_name | relative_url}}">{{category_name}}</a></li>

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MINI FAT32 OS 구현"
+date:   2019-08-11 09:00:00 +0900
+categories: '2019'
+---
+
+SW 개발을 위한 알고리즘 활용과정 프로젝트

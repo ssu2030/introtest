@@ -3,123 +3,41 @@ layout: description
 title: About
 permalink: /about/
 ---
+## Introduction
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+이동호 (Dongho Lee)<br>
+Software Engineer - (Mainly WEB, C++)<br>
 
-[Link to another page](./another-page.html).
+MAIL: [ssu2030@naver.com](https://mail.naver.com/write)<br>
+PHONE: 010-9624-0429<br>
 
-There should be whitespace between paragraphs.
+전) 광운대학교 컴퓨터 소프트웨어학과 졸업<br>
+현) TMAXOFFICE 재직중
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<a href="https://github.com/ssu2030"><img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-64.png"></a>
 
-# Header 1
+----------------------------------------------------
+## Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**양평고등학교** 인문계  (2009-2012)
 
-## Header 2
+**광운대학교** 컴퓨터소프트웨어학사  (2013-2019)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+----------
+## Skills
 
-### Header 3
+#### Mainly
+HTML, CSS, JavaScript, TypeScript, npm, C, C++, Linux, Bash, batch
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+#### Now Learning 
+Android, JAVA
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+----------
+## Interests
 
-#### Header 4
+##### 레고 창작
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+##### 옷, 스티커 디자인
 
-##### Header 5
+##### 스케이트 보드
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
