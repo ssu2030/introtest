@@ -48,7 +48,8 @@ Android, JAVA
 -------
 ## Interests
 
-##### 레고 창작
+##### LEGO
+[my own creation 01](https://cafe.naver.com/bricknara?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D11156622%2526articleid%3D997278)
 
 ##### 옷, 스티커 디자인
 
