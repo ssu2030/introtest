@@ -7,7 +7,7 @@ permalink: /about/
 ## Introduction
 
 이동호 (Dongho Lee)<br>
-Software Engineer - (Mainly WEB, C++)<br>
+Software Engineer - (Mainly C++, web-front react)<br>
 
 MAIL: [ssu2030@naver.com](https://mail.naver.com/write)<br>
 PHONE: 010-9624-0429<br>
