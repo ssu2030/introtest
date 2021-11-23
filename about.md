@@ -3,6 +3,7 @@ layout: description
 title: About
 permalink: /about/
 ---
+
 ## Introduction
 
 이동호 (Dongho Lee)<br>
@@ -35,14 +36,20 @@ Android, JAVA
 -------
 ## Personal Project & Study
 ### Study
+
 #### Solving Algorithm
+
 - [2019 - 2020](https://github.com/ssu2030/AlgorithmStudy/blob/main/README.md)
 - [2021 -](https://github.com/KWU-TMAX/AlgorithmStudy)
+
 #### C++, WEB Study
+
 - [C++](https://github.com/ssu2030/C-note)
 - [HTML, CSS, JS](https://github.com/ssu2030/LearningWEB)
 - [React TIL](https://github.com/ssu2030/LearningWEB/tree/main/React)
+
 ### Project
+
 #### My React Resume
 
 #### Shopping Helper
