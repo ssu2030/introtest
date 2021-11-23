@@ -34,7 +34,7 @@ HTML, CSS, JavaScript, TypeScript, npm, C, C++, Linux, Bash, batch
 Android, JAVA
 
 -------
-## Personal Project & Study
+## Personal Study & Project 
 ### Study
 
 #### Solving Algorithm
