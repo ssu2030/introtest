@@ -55,8 +55,8 @@ Android, JAVA
 ## Interests
 
 ##### LEGO
-- [my own creation 01](https://cafe.naver.com/bricknara?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D11156622%2526articleid%3D997278)
-- [my own creation 02](https://cafe.naver.com/bricknara?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D11156622%2526articleid%3D1000683)
+- [my own creation 01](https://cafe.naver.com/bricknara/997278)
+- [my own creation 02](https://cafe.naver.com/bricknara/1000683)
 
 ##### DESIGN
 
