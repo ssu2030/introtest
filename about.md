@@ -33,10 +33,15 @@ HTML, CSS, JavaScript, TypeScript, npm, C, C++, Linux, Bash, batch
 Android, JAVA
 
 -------
-## Personal Project
-
+## Personal Project & Study
+### Study
 #### Solving Algorithm
-
+- [2019 - 2020](https://github.com/ssu2030/AlgorithmStudy/blob/main/README.md)
+- [2021 -](https://github.com/KWU-TMAX/AlgorithmStudy)
+#### Web Study
+- [HTML, CSS, JS](https://github.com/ssu2030/LearningWEB)
+- [React TIL](https://github.com/ssu2030/LearningWEB/tree/main/React)
+### Project
 #### My React Resume
 
 #### Shopping Helper
@@ -52,8 +57,8 @@ Android, JAVA
 - [my own creation 01](https://cafe.naver.com/bricknara?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D11156622%2526articleid%3D997278)
 - [my own creation 02](https://cafe.naver.com/bricknara?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D11156622%2526articleid%3D1000683)
 
-##### 옷, 스티커 디자인
+##### DESIGN
 
-##### 스케이트 보드
+
 
 
